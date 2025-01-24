@@ -1,0 +1,12 @@
+flask
+Django
+asker
+rich
+prompt_toolkit
+tqdm
+pyfiglet
+adorable
+visagepy
+pv
+lolcat
+click
